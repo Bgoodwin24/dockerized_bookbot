@@ -1,1 +1,2 @@
-# dockerized_bookbot
+# bookbot
+BookBot is my first project!
