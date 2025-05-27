@@ -1,3 +1,6 @@
+FROM debian:stable-slim
+COPY main.py main.py
+COPY books/ books/
 # Build from a slim Debian/Linux image
 FROM debian:stable-slim
 
